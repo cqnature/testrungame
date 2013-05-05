@@ -1,13 +1,12 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
+.DS_Store
+*.swp
+*~.nib
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
+build/
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.pbxuser
+*.perspective
+*.perspectivev3
+
+project.xcworkspace/
+xcuserdata/
